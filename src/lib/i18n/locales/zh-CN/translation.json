@@ -90,7 +90,7 @@
 	"and {{COUNT}} more": "还有 {{COUNT}} 个",
 	"and create a new shared link.": "并创建一个新的分享链接。",
 	"Android": "Android",
-	"API Base URL": "API URL",
+	"API Base URL": "API 请求地址",
 	"API Key": "API 密钥",
 	"API Key created.": "API 密钥已创建。",
 	"API Key Endpoint Restrictions": "API 密钥端点限制",
