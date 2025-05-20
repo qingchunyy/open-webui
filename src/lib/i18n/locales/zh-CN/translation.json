@@ -222,7 +222,7 @@
 	"ComfyUI": "ComfyUI",
 	"ComfyUI API Key": "ComfyUI API 密钥",
 	"ComfyUI Base URL": "ComfyUI URL",
-	"ComfyUI Base URL is required.": "ComfyUI URL 为必需填写。",
+	"ComfyUI Base URL is required.": "ComfyUI URL 必需填写。",
 	"ComfyUI Workflow": "ComfyUI 工作流",
 	"ComfyUI Workflow Nodes": "ComfyUI 工作流节点",
 	"Command": "命令",
